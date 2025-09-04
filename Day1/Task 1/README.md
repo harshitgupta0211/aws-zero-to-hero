@@ -86,19 +86,3 @@ AWS offers multiple pricing models that give flexibility based on workload and u
 - **2023** → AWS leads cloud market share (~33%).  
 
 AWS today is the **world’s most widely adopted cloud platform** powering startups, enterprises, and governments.
-
----
-
-## 📢 Submission / LinkedIn Post Idea
-
-```markdown
-🚀 Day 1 of #90DaysOfDevOps Completed!  
-
-✅ Explored AWS Pricing Models (On-Demand, Reserved, Spot, Savings Plans)  
-✅ Understood Cloud Computing Models (On-Prem, Cloud, Hybrid)  
-✅ Learned Service Models (IaaS, PaaS, SaaS)  
-✅ Discovered AWS History & Milestones  
-
-Excited to continue this journey and explore DevOps hands-on!  
-
-#AWS #CloudComputing #DevOps #90DaysOfDevOps
